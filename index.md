@@ -1,5 +1,3 @@
-# DbUnit
-
 DbUnit is a JUnit extension for database-driven testing.
 It puts your database into a known state before each test runs,
 preventing cascading failures from shared database corruption.
