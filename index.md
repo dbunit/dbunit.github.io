@@ -13,6 +13,7 @@ With the success at GitHub for over a year due to its well-done CI system, the e
 
 * [DbUnit Core](https://dbunit.github.io/dbunit-extension/) — the main library
 * [DbUnit Maven Plugin](https://dbunit.github.io/dbunit-maven-plugin/) — Maven integration
+* [DbUnit Eclipse Plugin](https://dbunit.github.io/dbunit-eclipse-plugin) — Eclipse editor
 
 ## Source & Issues
 
